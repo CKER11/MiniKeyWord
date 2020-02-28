@@ -1,0 +1,53 @@
+15:12:20 ERROR 加载PDF文件D:\Desktop\lpf转换工具\简易操作手册.pdf失败,错误:iTextSharp.text.exceptions.InvalidPdfException: PDF header signature not found.
+   在 iTextSharp.text.pdf.PdfReader..ctor(ReaderProperties properties, IRandomAccessSource byteSource)
+   在 iTextSharp.text.pdf.PdfReader..ctor(String filename)
+   在 FindKeyWordsInFile.ITextSharpHandler.ReadPdf(String fileName) 位置 D:\Documents\Visual Studio 2015\Projects\FindKeyWordsInFile\FindKeyWordsInFile\Helper\PDFHelper.cs:行号 101             
+15:22:43 ERROR 加载PDF文件D:\Desktop\lpf转换工具\简易操作手册.pdf失败,错误:iTextSharp.text.exceptions.InvalidPdfException: PDF header signature not found.
+   在 iTextSharp.text.pdf.PdfReader..ctor(ReaderProperties properties, IRandomAccessSource byteSource)
+   在 iTextSharp.text.pdf.PdfReader..ctor(String filename)
+   在 FindKeyWordsInFile.ITextSharpHandler.ReadPdf(String fileName) 位置 D:\Documents\Visual Studio 2015\Projects\FindKeyWordsInFile\FindKeyWordsInFile\Helper\PDFHelper.cs:行号 82             
+17:14:39 ERROR D:\Desktop\~$aaa.docx:See inner exception(s) for details.             
+17:14:43 ERROR D:\Desktop\~$二燃需求20181031.docx:See inner exception(s) for details.             
+17:14:44 ERROR D:\Desktop\~$件系统架构风格.docx:See inner exception(s) for details.             
+17:14:44 ERROR D:\Desktop\~$光伏项目Liems6.2阳高电站-发电区监视20190312.docx:See inner exception(s) for details.             
+17:14:45 ERROR D:\Desktop\~$壁温SIS (1).docx:See inner exception(s) for details.             
+17:14:46 ERROR D:\Desktop\~$架构设计师一本通_课后习题_有答案版-已转档.docx:See inner exception(s) for details.             
+17:14:47 ERROR D:\Desktop\~$淮安二燃需求.docx:See inner exception(s) for details.             
+17:14:54 ERROR D:\Desktop\Cal\~$l_一平面沿平面内某一直线旋转固定角度.docx:See inner exception(s) for details.             
+17:14:54 ERROR D:\Desktop\Cal\~$l_点到平面的垂足.docx:See inner exception(s) for details.             
+17:14:55 ERROR D:\Desktop\Cal\~$l_球与过原点直线.docx:See inner exception(s) for details.             
+17:14:56 ERROR D:\Desktop\chx\~$RFID服务器远程桌面步骤.docx:See inner exception(s) for details.             
+17:14:56 ERROR D:\Desktop\chx\~$汽车AVI系统详细设计0722.docx:See inner exception(s) for details.             
+17:14:57 ERROR D:\Desktop\chx\~$汽车AVI系统操作手册0715.docx:See inner exception(s) for details.             
+17:14:58 ERROR D:\Desktop\chx\~$汽车AVI系统需求规格说明书0802.docx:See inner exception(s) for details.             
+17:15:36 ERROR D:\Desktop\通辽指标考核\~$标问题1.1(1).docx:See inner exception(s) for details.             
+17:15:37 ERROR D:\Desktop\~$aaa.docx:See inner exception(s) for details.             
+17:15:38 ERROR D:\Desktop\~$二燃需求20181031.docx:See inner exception(s) for details.             
+17:15:39 ERROR D:\Desktop\~$件系统架构风格.docx:See inner exception(s) for details.             
+17:15:40 ERROR D:\Desktop\~$光伏项目Liems6.2阳高电站-发电区监视20190312.docx:See inner exception(s) for details.             
+17:15:40 ERROR D:\Desktop\~$壁温SIS (1).docx:See inner exception(s) for details.             
+17:15:41 ERROR D:\Desktop\~$架构设计师一本通_课后习题_有答案版-已转档.docx:See inner exception(s) for details.             
+17:15:42 ERROR D:\Desktop\~$淮安二燃需求.docx:See inner exception(s) for details.             
+17:15:46 ERROR D:\Desktop\Cal\~$l_一平面沿平面内某一直线旋转固定角度.docx:See inner exception(s) for details.             
+17:15:47 ERROR D:\Desktop\Cal\~$l_点到平面的垂足.docx:See inner exception(s) for details.             
+17:15:47 ERROR D:\Desktop\Cal\~$l_球与过原点直线.docx:See inner exception(s) for details.             
+17:15:48 ERROR D:\Desktop\chx\~$RFID服务器远程桌面步骤.docx:See inner exception(s) for details.             
+17:15:49 ERROR D:\Desktop\chx\~$汽车AVI系统操作手册0715.docx:See inner exception(s) for details.             
+17:15:49 ERROR D:\Desktop\chx\~$汽车AVI系统详细设计0722.docx:See inner exception(s) for details.             
+17:15:50 ERROR D:\Desktop\chx\~$汽车AVI系统需求规格说明书0802.docx:See inner exception(s) for details.             
+17:15:59 ERROR D:\Desktop\通辽指标考核\~$标问题1.1(1).docx:See inner exception(s) for details.             
+17:41:16 ERROR D:\Desktop\~$aaa.docx:See inner exception(s) for details.             
+17:41:19 ERROR D:\Desktop\~$二燃需求20181031.docx:See inner exception(s) for details.             
+17:41:19 ERROR D:\Desktop\~$件系统架构风格.docx:See inner exception(s) for details.             
+17:41:20 ERROR D:\Desktop\~$光伏项目Liems6.2阳高电站-发电区监视20190312.docx:See inner exception(s) for details.             
+17:41:21 ERROR D:\Desktop\~$壁温SIS (1).docx:See inner exception(s) for details.             
+17:41:21 ERROR D:\Desktop\~$架构设计师一本通_课后习题_有答案版-已转档.docx:See inner exception(s) for details.             
+17:41:23 ERROR D:\Desktop\~$淮安二燃需求.docx:See inner exception(s) for details.             
+17:41:29 ERROR D:\Desktop\Cal\~$l_一平面沿平面内某一直线旋转固定角度.docx:See inner exception(s) for details.             
+17:42:26 ERROR D:\Desktop\~$aaa.docx:See inner exception(s) for details.             
+17:42:28 ERROR D:\Desktop\~$二燃需求20181031.docx:See inner exception(s) for details.             
+17:42:29 ERROR D:\Desktop\~$件系统架构风格.docx:See inner exception(s) for details.             
+17:42:30 ERROR D:\Desktop\~$光伏项目Liems6.2阳高电站-发电区监视20190312.docx:See inner exception(s) for details.             
+17:42:30 ERROR D:\Desktop\~$壁温SIS (1).docx:See inner exception(s) for details.             
+17:42:31 ERROR D:\Desktop\~$架构设计师一本通_课后习题_有答案版-已转档.docx:See inner exception(s) for details.             
+17:42:33 ERROR D:\Desktop\~$淮安二燃需求.docx:See inner exception(s) for details.             
